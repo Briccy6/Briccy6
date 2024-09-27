@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hirwa Alain Brian</h1>
 <h3 align="center">A passionate Full stack developer from Rwanda</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=briccy6&label=Profile%20views&color=0e75b6&style=flat" alt="briccy6" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=briccy6" alt="briccy6" /></a> </p>
-
 - 🔭 I’m currently working on **E-learning project**
 
 - 🌱 I’m currently learning **Machine Learning**
