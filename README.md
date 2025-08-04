@@ -16,7 +16,7 @@
 
 <h3 align="left">Phone Numbers:</h3>
 <p align="left">
-📞 <a href="tel:+250725912529">Call Me: +250725912529</a><br>
+📞 <a href="tel:+250725912529">Call Me: +250794900225</a><br>
 📱 <a href="https://wa.me/250784571544?text=Hello%20Brian%2C%20I%20need%20some%20help" target="blank">WhatsApp Me: +250784571544</a>
 </p>
 
