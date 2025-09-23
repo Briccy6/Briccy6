@@ -46,20 +46,3 @@
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/> </a>
 </p>
 
----
-
-### 📊 GitHub Stats & Activity  
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=briccy6&show_icons=true&locale=en&layout=compact" alt="briccy6" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=briccy6&show_icons=true&locale=en" alt="briccy6" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=briccy6&" alt="briccy6" /></p>
-
----
-
-### 🔥 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=briccy6&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="briccy6's contribution graph" />
-</p>
