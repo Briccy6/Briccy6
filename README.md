@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 SOFTWARE DEVELOPER | 5+ YEARS EXPERIENCE | SOFTWARE ENGINEERING STUDENT
+## 👨‍💻 SOFTWARE DEVELOPER | 5+ YEARS EXPERIENCE | IT STUDENT
 
 **Current Role:** Software Developer @ [Shiing Business Group](https://shiingroup.com)  
 **Education:** Software Engineering Student @ Rwanda Polytechnic - Tumba College  
